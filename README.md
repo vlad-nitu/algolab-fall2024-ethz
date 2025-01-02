@@ -24,8 +24,57 @@ TODO (Complete after exam :pray:).
 ## Previous Years
 This is a collection of problems for the previous years I used to prepare for the exam. 
 
-### 2023
+### 2023 - dede1751
 
-| Problem                                                                     | Solution                                                                                    | Type                     | 
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ |
-| [TODO.pdf](PreviousYears/2023/AsterixInSwitzerland/this.pdf)                | [TODO.cpp](PreviousYears/2023/AsterixInSwitzerland/src/main.cpp)                            | TODO                     |
+- [dede1751/algolab](https://github.com/dede1751/algolab?tab=readme-ov-file)
+
+| Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
+| [TODO.pdf](PreviousYears/2023/LordVoldemort/this.pdf)                       | [TODO.cpp](PreviousYears/2023/LordVoldemort/src/main.cpp)            | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/PlanetExpress/this.pdf)                       | [TODO.cpp](PreviousYears/2023/PlanetExpress/src/main.cpp)            | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/London/this.pdf)                              | [TODO.cpp](PreviousYears/2023/London/src/main.cpp)                   | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/GoldenEye/this.pdf)                           | [TODO.cpp](PreviousYears/2023/GoldenEye/src/main.cpp)                | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/SurveillancePhotographs/this.pdf)             | [TODO.cpp](PreviousYears/2023/SurveillancePhotographs/src/main.cpp)  | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/India/this.pdf)                               | [TODO.cpp](PreviousYears/2023/India/src/main.cpp)                    | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/DeanThomas/this.pdf)                          | [TODO.cpp](PreviousYears/2023/DeanThomas/src/main.cpp)               | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/AsterixAndTheRomanLegions/this.pdf)           | [TODO.cpp](PreviousYears/2023/AsterixAndTheRomanLegions/src/main.cpp)| TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/PhantomMenace/this.pdf)                       | [TODO.cpp](PreviousYears/2023/PhantomMenace/src/main.cpp)            | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/NewYork/this.pdf)                             | [TODO.cpp](PreviousYears/2023/NewYork/src/main.cpp)                  | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/Rumpelstilzchen/this.pdf)                     | [TODO.cpp](PreviousYears/2023/Rumpelstilzchen/src/main.cpp)          | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/WorldCup/this.pdf)                            | [TODO.cpp](PreviousYears/2023/WorldCup/src/main.cpp)                 | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/AugeanStables/this.pdf)                       | [TODO.cpp](PreviousYears/2023/AugeanStables/src/main.cpp)            | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/CasinoRoyale/this.pdf)                        | [TODO.cpp](PreviousYears/2023/CasinoRoyale/src/main.cpp)             | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/DHL/this.pdf)                                 | [TODO.cpp](PreviousYears/2023/DHL/src/main.cpp)                      | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/OnHerMajestySecretService/this.pdf)           | [TODO.cpp](PreviousYears/2023/OnHerMajestySecretService/src/main.cpp)| TODO                 | TODO                     |
+
+### Exam 2023 - dede1751
+
+- [dede1751/algolab](https://github.com/dede1751/algolab?tab=readme-ov-file)
+
+| Problem                                                                     | Solution                                                                | Idea                 | Type                     | 
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------------- |--------------------- | ------------------------ |
+| [TODO.pdf](PreviousYears/Exam2023/Croquet/this.pdf)                         | [TODO.cpp](PreviousYears/Exam2023/Croquet/src/main.cpp)                 | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/Exam2023/QueenOfHearts/this.pdf)                   | [TODO.cpp](PreviousYears/Exam2023/QueenOfHearts/src/main.cpp)           | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/Exam2023/DownTheRabbitHole/this.pdf)               | [TODO.cpp](PreviousYears/Exam2023/DownTheRabbitHole/src/main.cpp)       | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/Exam2023/RabbitClan/this.pdf)                      | [TODO.cpp](PreviousYears/Exam2023/SurveillancePhotographs/src/main.cpp) | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/Exam2023/MadTeaParty/this.pdf)                     | [TODO.cpp](PreviousYears/Exam2023/MadTeaParty/src/main.cpp)             | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/Exam2023/Chronosphere/this.pdf)                    | [TODO.cpp](PreviousYears/Exam2023/Chronosphere/src/main.cpp)            | TODO                 | TODO                     |
+
+
+### 2022 - vateseif
+
+- [vateseif/algolab-2022](https://github.com/vateseif/algolab-2022?tab=readme-ov-file)
+
+| Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
+| [TODO.pdf](PreviousYears/2022/EmpireStrikesBack/this.pdf)                   | [TODO.cpp](PreviousYears/2022/EmpireStrikesBack/src/main.cpp)        | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/Evolution/this.pdf)                           | [TODO.cpp](PreviousYears/2022/Evolution/src/main.cpp)                | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/FleetRace/this.pdf)                           | [TODO.cpp](PreviousYears/2022/FleetRace/src/main.cpp)                | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/LightTheStage/this.pdf)                       | [TODO.cpp](PreviousYears/2022/LightTheStage/src/main.cpp)            | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/Marathon/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Marathon/src/main.cpp)                 | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/NewTiles/this.pdf)                            | [TODO.cpp](PreviousYears/2022/NewTiles/src/main.cpp)                 | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/RevengeOfTheSith/this.pdf)                    | [TODO.cpp](PreviousYears/2022/RevengeOfTheSith/src/main.cpp)         | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/SearchSnippets/this.pdf)                      | [TODO.cpp](PreviousYears/2022/SearchSnippets/src/main.cpp)           | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/ShoppingTrip/this.pdf)                        | [TODO.cpp](PreviousYears/2022/ShoppingTrip/src/main.cpp)             | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/Tracking/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Tracking/src/main.cpp)                 | TODO                 | TODO                     |
+ 
