@@ -1,5 +1,5 @@
 # Algorithms Lab - Fall 2024
-Code Expert exercises from the Algorithms Lab course at ETH Zürich.
+Code Expert exercises from the Algorithms Lab course at ETH Zürich. \\
 Template inspired from [`dede1751 - GitHub AlgoLab 2023`](https://github.com/dede1751/algolab/)
 
 
@@ -22,19 +22,4 @@ This is a collection of problems for the previous years I used to prepare for th
 
 | Problem                                                                     | Solution                                                                                    | Type                     | 
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ |
-| [TODO.pdf](PreviousYears/2023/AsterixInSwitzerland/this.pdf)                    | [TODO.cpp](PreviousYears/2023/AsterixInSwitzerland/src/main.cpp)                        | TODO                     |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
+| [TODO.pdf](PreviousYears/2023/AsterixInSwitzerland/this.pdf)                | [TODO.cpp](PreviousYears/2023/AsterixInSwitzerland/src/main.cpp)                            | TODO                     |
