@@ -15,7 +15,7 @@ Template inspired from [`dede1751 - GitHub AlgoLab 2023`](https://github.com/ded
 | Even Pairs                                                             | [even_pairs.cpp](Week1/EvenPairs/src/main.cpp)              | [Idea](Week1/EvenPairs/idea.md)   | W1     | Prefix sum, Combinatorics  |
 | Even Matrices                                                          | [even_matrices.cpp](Week1/EvenMatrices/src/main.cpp)        | [Idea](Week1/EvenMatrices/idea.md)| W1     | Prefix sum, Combinatorics  |
 | Build the Sum                                                          | [build_the_sum.cpp](Week1/BuildTheSum/src/main.cpp)         | [Idea](Week1/BuildTheSum/idea.md) | W1     | -                          |
-| Deck of Cards                                                          | [deck_of_cards.cpp](Week2/DeckOfCards/src/main.cpp)         | [Idea](Week1/DeckOfCards/idea.md) | POTW2  | Prefix sum, SW or BS       |
+| Deck of Cards                                                          | [deck_of_cards.cpp](Week2/DeckOfCards/src/main.cpp)         | [Idea](Week2/DeckOfCards/idea.md) | POTW2  | Prefix sum, SW or BS       |
 
 ## Exam
 TODO (Complete after exam :pray:). 
