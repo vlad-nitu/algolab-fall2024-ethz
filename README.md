@@ -78,3 +78,32 @@ This is a collection of problems for the previous years I used to prepare for th
 | [TODO.pdf](PreviousYears/2022/ShoppingTrip/this.pdf)                        | [TODO.cpp](PreviousYears/2022/ShoppingTrip/src/main.cpp)             | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2022/Tracking/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Tracking/src/main.cpp)                 | TODO                 | TODO                     |
  
+
+### 2021 - haeggee
+
+- [haeggee/algolab](https://github.com/haeggee/algolab) -> contains elaborate ideas in `idea.md`
+- [zhangganlin/Algolab-2021](https://github.com/zhangganlin/Algolab-2021/tree/master?tab=readme-ov-file) -> Contains tasks (PDFs)
+
+| Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
+| [TODO.pdf](PreviousYears/2021/FromRussiaWithLove/this.pdf)                  | [TODO.cpp](PreviousYears/2021/FromRussiaWithLove/src/main.cpp)       | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2021/Punch/this.pdf)                               | [TODO.cpp](PreviousYears/2021/Punch/src/main.cpp)                    | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2021/HongKong/this.pdf)                            | [TODO.cpp](PreviousYears/2021/HongKong/src/main.cpp)                 | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2021/BonusLevel/this.pdf)                          | [TODO.cpp](PreviousYears/2021/BonusLevel/src/main.cpp)               | TODO                 | TODO                     |
+
+### 2020
+- [dsparber/algolab](https://github.com/dsparber/algolab?tab=readme-ov-file) -> contains tasks (PDFs)
+- [simon-hrabec/Algolab-2020](https://github.com/simon-hrabec/Algolab-2020) -> contains ideas in `README.md`
+
+| Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
+| [TODO.pdf](PreviousYears/2020/Lestrade/this.pdf)                            | [TODO.cpp](PreviousYears/2020/Lestrade/src/main.cpp)                 | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2020/RadiationTherapy/this.pdf)                    | [TODO.cpp](PreviousYears/2020/RadiationTherapy/src/main.cpp)         | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2020/AttackOfTheClones/this.pdf)                   | [TODO.cpp](PreviousYears/2020/AttackOfTheClones/src/main.cpp)        | TODO                 | TODO                     |
+
+
+### 2019
+- [chaehni/AlgoLab](https://github.com/chaehni/AlgoLab)
+- [daniCh8/eth-algolab-2019](https://github.com/daniCh8/eth-algolab-2019/tree/master)
+
+- TODO: add problems if time permits
