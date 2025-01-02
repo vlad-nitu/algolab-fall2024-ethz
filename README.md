@@ -65,18 +65,18 @@ This is a collection of problems for the previous years I used to prepare for th
 
 - [vateseif/algolab-2022](https://github.com/vateseif/algolab-2022?tab=readme-ov-file)
 
-| Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
-| [TODO.pdf](PreviousYears/2022/EmpireStrikesBack/this.pdf)                   | [TODO.cpp](PreviousYears/2022/EmpireStrikesBack/src/main.cpp)        | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/Evolution/this.pdf)                           | [TODO.cpp](PreviousYears/2022/Evolution/src/main.cpp)                | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/FleetRace/this.pdf)                           | [TODO.cpp](PreviousYears/2022/FleetRace/src/main.cpp)                | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/LightTheStage/this.pdf)                       | [TODO.cpp](PreviousYears/2022/LightTheStage/src/main.cpp)            | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/Marathon/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Marathon/src/main.cpp)                 | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/NewTiles/this.pdf)                            | [TODO.cpp](PreviousYears/2022/NewTiles/src/main.cpp)                 | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/RevengeOfTheSith/this.pdf)                    | [TODO.cpp](PreviousYears/2022/RevengeOfTheSith/src/main.cpp)         | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/SearchSnippets/this.pdf)                      | [TODO.cpp](PreviousYears/2022/SearchSnippets/src/main.cpp)           | NOW                  | NOW                      |
-| [TODO.pdf](PreviousYears/2022/ShoppingTrip/this.pdf)                        | [TODO.cpp](PreviousYears/2022/ShoppingTrip/src/main.cpp)             | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/Tracking/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Tracking/src/main.cpp)                 | TODO                 | TODO                     |
+| Problem                                                                     | Solution                                                             | Idea                                                         | Type                                  | 
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------------|------------------------------------------------------------- | ------------------------------------- |
+| [TODO.pdf](PreviousYears/2022/EmpireStrikesBack/this.pdf)                   | [TODO.cpp](PreviousYears/2022/EmpireStrikesBack/src/main.cpp)        | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/Evolution/this.pdf)                           | [TODO.cpp](PreviousYears/2022/Evolution/src/main.cpp)                | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/FleetRace/this.pdf)                           | [TODO.cpp](PreviousYears/2022/FleetRace/src/main.cpp)                | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/LightTheStage/this.pdf)                       | [TODO.cpp](PreviousYears/2022/LightTheStage/src/main.cpp)            | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/Marathon/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Marathon/src/main.cpp)                 | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/NewTiles/this.pdf)                            | [TODO.cpp](PreviousYears/2022/NewTiles/src/main.cpp)                 | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/RevengeOfTheSith/this.pdf)                    | [TODO.cpp](PreviousYears/2022/RevengeOfTheSith/src/main.cpp)         | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/SearchSnippets/this.pdf)                      | [TODO.cpp](PreviousYears/2022/SearchSnippets/src/main.cpp)           | [Idea](PreviousYears/2022/SearchSnippets/idea.md)            | Sliding Window, Counting              |
+| [TODO.pdf](PreviousYears/2022/ShoppingTrip/this.pdf)                        | [TODO.cpp](PreviousYears/2022/ShoppingTrip/src/main.cpp)             | TODO                                                         | TODO                                  |
+| [TODO.pdf](PreviousYears/2022/Tracking/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Tracking/src/main.cpp)                 | TODO                                                         | TODO                                  |
  
 
 ### 2021 - haeggee
