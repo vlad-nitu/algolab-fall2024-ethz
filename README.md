@@ -30,7 +30,7 @@ This is a collection of problems for the previous years I used to prepare for th
 
 | Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
-| [TODO.pdf](PreviousYears/2023/LordVoldemort/this.pdf)                       | [TODO.cpp](PreviousYears/2023/LordVoldemort/src/main.cpp)            | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2023/LordVoldemort/this.pdf)                       | [TODO.cpp](PreviousYears/2023/LordVoldemort/src/main.cpp)            | Tomorrow             | Tomorrow                 |
 | [TODO.pdf](PreviousYears/2023/PlanetExpress/this.pdf)                       | [TODO.cpp](PreviousYears/2023/PlanetExpress/src/main.cpp)            | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2023/London/this.pdf)                              | [TODO.cpp](PreviousYears/2023/London/src/main.cpp)                   | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2023/GoldenEye/this.pdf)                           | [TODO.cpp](PreviousYears/2023/GoldenEye/src/main.cpp)                | TODO                 | TODO                     |
@@ -74,7 +74,7 @@ This is a collection of problems for the previous years I used to prepare for th
 | [TODO.pdf](PreviousYears/2022/Marathon/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Marathon/src/main.cpp)                 | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2022/NewTiles/this.pdf)                            | [TODO.cpp](PreviousYears/2022/NewTiles/src/main.cpp)                 | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2022/RevengeOfTheSith/this.pdf)                    | [TODO.cpp](PreviousYears/2022/RevengeOfTheSith/src/main.cpp)         | TODO                 | TODO                     |
-| [TODO.pdf](PreviousYears/2022/SearchSnippets/this.pdf)                      | [TODO.cpp](PreviousYears/2022/SearchSnippets/src/main.cpp)           | TODO                 | TODO                     |
+| [TODO.pdf](PreviousYears/2022/SearchSnippets/this.pdf)                      | [TODO.cpp](PreviousYears/2022/SearchSnippets/src/main.cpp)           | NOW                  | NOW                      |
 | [TODO.pdf](PreviousYears/2022/ShoppingTrip/this.pdf)                        | [TODO.cpp](PreviousYears/2022/ShoppingTrip/src/main.cpp)             | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2022/Tracking/this.pdf)                            | [TODO.cpp](PreviousYears/2022/Tracking/src/main.cpp)                 | TODO                 | TODO                     |
  
