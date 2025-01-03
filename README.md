@@ -22,6 +22,9 @@ Template inspired from [`dede1751 - GitHub AlgoLab 2023`](https://github.com/ded
 | [Defensive Line](Week2/DefensiveLine/this.pdf)                         | [defensive_line.cpp](Week2/DefensiveLine/this.pdf)              | [Idea](Week2/DefensiveLine/idea.md)          | W2     | DP, SW or BS               |
 | [The Great Game](Week2/TheGreatGame/this.pdf)                          | [the_great_game.cpp](Week2/TheGreatGame/this.pdf)               | [Idea](Week2/TheGreatGame/idea.md)           | W2     | DP                         |
 | [JamesBondSovereigns](Week2/JamesBondSovereigns/this.pdf)              | [james_bond_sovereigns.cpp](Week2/JamesBondSovereigns/this.pdf) | [Idea](Week2/JamesBondSovereigns/idea.md)    | POTW3  | DP                         |
+| [First Steps with BGL](Week2/FirstStepsBGL/this.pdf)                   | [first_steps_bgl.cpp](Week2/FirstStepsBGL/this.pdf)             | [Idea](Week2/FirstStepsBGL/idea.md)          | W3     | BGL: Dijkstra & Kruskal    |
+| [Buddy Selection](Week2/BuddySelection/this.pdf)                       | [buddy_selection.cpp](Week2/BuddySelection/this.pdf)            | [Idea](Week2/BuddySelection/idea.md)         | W3     | BGL: Maximum Matching      |
+| [Ant Challenge](Week2/AntChallenge/this.pdf)                           | [ant_challenge.cpp](Week2/AntChallenge/this.pdf)                | [Idea](Week2/AntChallenge/idea.md)           | W3     | BGL: Kruskal & Dijkstra    |
 
 ## Exam
 TODO (Complete after exam :pray:). 
@@ -36,7 +39,7 @@ This is a collection of problems for the previous years I used to prepare for th
 
 | Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
-| [TODO.pdf](PreviousYears/2023/LordVoldemort/this.pdf)                       | [TODO.cpp](PreviousYears/2023/LordVoldemort/src/main.cpp)            | Tomorrow             | Tomorrow                 |
+| [LordVoldemort](PreviousYears/2023/LordVoldemort/this.pdf)                  | [lord_voldemort.cpp](PreviousYears/2023/LordVoldemort/src/main.cpp)  | Clone Defensive Line | DP, SW or BS precompute  |
 | [TODO.pdf](PreviousYears/2023/PlanetExpress/this.pdf)                       | [TODO.cpp](PreviousYears/2023/PlanetExpress/src/main.cpp)            | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2023/London/this.pdf)                              | [TODO.cpp](PreviousYears/2023/London/src/main.cpp)                   | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2023/GoldenEye/this.pdf)                           | [TODO.cpp](PreviousYears/2023/GoldenEye/src/main.cpp)                | TODO                 | TODO                     |
@@ -92,7 +95,7 @@ This is a collection of problems for the previous years I used to prepare for th
 
 | Problem                                                                     | Solution                                                             | Idea                 | Type                     | 
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------|--------------------- | ------------------------ |
-| [TODO.pdf](PreviousYears/2021/FromRussiaWithLove/this.pdf)                  | [TODO.cpp](PreviousYears/2021/FromRussiaWithLove/src/main.cpp)       | TODO                 | TODO                     |
+| [this.pdf](PreviousYears/2021/FromRussiaWithLove/this.pdf)                  | [russia.cpp](PreviousYears/2021/FromRussiaWithLove/src/main.cpp)     | Clone James Bond Sov.| DP                       |
 | [TODO.pdf](PreviousYears/2021/Punch/this.pdf)                               | [TODO.cpp](PreviousYears/2021/Punch/src/main.cpp)                    | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2021/HongKong/this.pdf)                            | [TODO.cpp](PreviousYears/2021/HongKong/src/main.cpp)                 | TODO                 | TODO                     |
 | [TODO.pdf](PreviousYears/2021/BonusLevel/this.pdf)                          | [TODO.cpp](PreviousYears/2021/BonusLevel/src/main.cpp)               | TODO                 | TODO                     |
