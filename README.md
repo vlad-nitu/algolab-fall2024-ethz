@@ -21,10 +21,10 @@ Template inspired from [`dede1751 - GitHub AlgoLab 2023`](https://github.com/ded
 | [Burning Coins](Week2/BurningCoins/this.pdf)                           | [burning_coins.cpp](Week2/BurningCoins/this.pdf)                | [Idea](Week2/BurningCoins/idea.md)           | W2     | DP                         |
 | [Defensive Line](Week2/DefensiveLine/this.pdf)                         | [defensive_line.cpp](Week2/DefensiveLine/this.pdf)              | [Idea](Week2/DefensiveLine/idea.md)          | W2     | DP, SW or BS               |
 | [The Great Game](Week2/TheGreatGame/this.pdf)                          | [the_great_game.cpp](Week2/TheGreatGame/this.pdf)               | [Idea](Week2/TheGreatGame/idea.md)           | W2     | DP                         |
-| [JamesBondSovereigns](Week2/JamesBondSovereigns/this.pdf)              | [james_bond_sovereigns.cpp](Week2/JamesBondSovereigns/this.pdf) | [Idea](Week2/JamesBondSovereigns/idea.md)    | POTW3  | DP                         |
-| [First Steps with BGL](Week2/FirstStepsBGL/this.pdf)                   | [first_steps_bgl.cpp](Week2/FirstStepsBGL/this.pdf)             | [Idea](Week2/FirstStepsBGL/idea.md)          | W3     | BGL: Dijkstra & Kruskal    |
-| [Buddy Selection](Week2/BuddySelection/this.pdf)                       | [buddy_selection.cpp](Week2/BuddySelection/this.pdf)            | [Idea](Week2/BuddySelection/idea.md)         | W3     | BGL: Maximum Matching      |
-| [Ant Challenge](Week2/AntChallenge/this.pdf)                           | [ant_challenge.cpp](Week2/AntChallenge/this.pdf)                | [Idea](Week2/AntChallenge/idea.md)           | W3     | BGL: Kruskal & Dijkstra    |
+| [JamesBondSovereigns](Week3/JamesBondSovereigns/this.pdf)              | [james_bond_sovereigns.cpp](Week3/JamesBondSovereigns/this.pdf) | [Idea](Week3/JamesBondSovereigns/idea.md)    | POTW3  | DP                         |
+| [First Steps with BGL](Week3/FirstStepsBGL/this.pdf)                   | [first_steps_bgl.cpp](Week3/FirstStepsBGL/this.pdf)             | [Idea](Week3/FirstStepsBGL/idea.md)          | W3     | BGL: Dijkstra & Kruskal    |
+| [Buddy Selection](Week3/BuddySelection/this.pdf)                       | [buddy_selection.cpp](Week3/BuddySelection/this.pdf)            | [Idea](Week3/BuddySelection/idea.md)         | W3     | BGL: Maximum Matching      |
+| [Ant Challenge](Week3/AntChallenge/this.pdf)                           | [ant_challenge.cpp](Week3/AntChallenge/this.pdf)                | [Idea](Week3/AntChallenge/idea.md)           | W3     | BGL: Kruskal & Dijkstra    |
 
 ## Exam
 TODO (Complete after exam :pray:). 
