@@ -10,16 +10,18 @@ Template inspired from [`dede1751 - GitHub AlgoLab 2023`](https://github.com/ded
 
 ## Problem Set
 
-| Problem                                                                | Solution                                                    | Idea                                  | Week   | Type                       | 
-| ---------------------------------------------------------------------- | ------------------------------------------------------------|-------------------------------------- | ------ | ---------------------------|
-| Dominoes                                                               | [dominoes.cpp](Week1/Dominoes/src/main.cpp)                 | [Idea](Week1/Dominoes/idea.md)        | W1     | Gredy                      |
-| Even Pairs                                                             | [even_pairs.cpp](Week1/EvenPairs/src/main.cpp)              | [Idea](Week1/EvenPairs/idea.md)       | W1     | Prefix sum, Combinatorics  |
-| Even Matrices                                                          | [even_matrices.cpp](Week1/EvenMatrices/src/main.cpp)        | [Idea](Week1/EvenMatrices/idea.md)    | W1     | Prefix sum, Combinatorics  |
-| Build the Sum                                                          | [build_the_sum.cpp](Week1/BuildTheSum/src/main.cpp)         | [Idea](Week1/BuildTheSum/idea.md)     | W1     | -                          |
-| Deck of Cards                                                          | [deck_of_cards.cpp](Week2/DeckOfCards/src/main.cpp)         | [Idea](Week2/DeckOfCards/idea.md)     | POTW2  | Prefix sum, SW or BS       |
-| [Beach Bars](Week2/BeachBars/this.pdf)                                 | [beach_bars.cpp](Week2/BeachBars/this.pdf)                  | [Idea](Week2/BeachBars/idea.md)       | W2     | SW, Math                   |
-| [Burning Coins](Week2/BurningCoins/this.pdf)                           | [burning_coins.cpp](Week2/BurningCoins/this.pdf)            | [Idea](Week2/BurningCoins/idea.md)    | W2     | DP                         |
-| [Defensive Line](Week2/DefensiveLine/this.pdf)                         | [defensive_line.cpp](Week2/DefensiveLine/this.pdf)          | [Idea](Week2/DefensiveLine/idea.md)   | W2     | DP, SW or BS               |
+| Problem                                                                | Solution                                                        | Idea                                         | Week   | Type                       | 
+| ---------------------------------------------------------------------- | --------------------------------------------------------------- |--------------------------------------------- | ------ | ---------------------------|
+| Dominoes                                                               | [dominoes.cpp](Week1/Dominoes/src/main.cpp)                     | [Idea](Week1/Dominoes/idea.md)               | W1     | Gredy                      |
+| Even Pairs                                                             | [even_pairs.cpp](Week1/EvenPairs/src/main.cpp)                  | [Idea](Week1/EvenPairs/idea.md)              | W1     | Prefix sum, Combinatorics  |
+| Even Matrices                                                          | [even_matrices.cpp](Week1/EvenMatrices/src/main.cpp)            | [Idea](Week1/EvenMatrices/idea.md)           | W1     | Prefix sum, Combinatorics  |
+| Build the Sum                                                          | [build_the_sum.cpp](Week1/BuildTheSum/src/main.cpp)             | [Idea](Week1/BuildTheSum/idea.md)            | W1     | -                          |
+| Deck of Cards                                                          | [deck_of_cards.cpp](Week2/DeckOfCards/src/main.cpp)             | [Idea](Week2/DeckOfCards/idea.md)            | POTW2  | Prefix sum, SW or BS       |
+| [Beach Bars](Week2/BeachBars/this.pdf)                                 | [beach_bars.cpp](Week2/BeachBars/this.pdf)                      | [Idea](Week2/BeachBars/idea.md)              | W2     | SW, Math                   |
+| [Burning Coins](Week2/BurningCoins/this.pdf)                           | [burning_coins.cpp](Week2/BurningCoins/this.pdf)                | [Idea](Week2/BurningCoins/idea.md)           | W2     | DP                         |
+| [Defensive Line](Week2/DefensiveLine/this.pdf)                         | [defensive_line.cpp](Week2/DefensiveLine/this.pdf)              | [Idea](Week2/DefensiveLine/idea.md)          | W2     | DP, SW or BS               |
+| [The Great Game](Week2/TheGreatGame/this.pdf)                          | [the_great_game.cpp](Week2/TheGreatGame/this.pdf)               | [Idea](Week2/TheGreatGame/idea.md)           | W2     | DP                         |
+| [JamesBondSovereigns](Week2/JamesBondSovereigns/this.pdf)              | [james_bond_sovereigns.cpp](Week2/JamesBondSovereigns/this.pdf) | [Idea](Week2/JamesBondSovereigns/idea.md)    | POTW3  | DP                         |
 
 ## Exam
 TODO (Complete after exam :pray:). 
