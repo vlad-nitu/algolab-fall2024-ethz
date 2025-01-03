@@ -2,20 +2,24 @@
 Code Expert exercises from the Algorithms Lab course at ETH Zürich. \\
 Template inspired from [`dede1751 - GitHub AlgoLab 2023`](https://github.com/dede1751/algolab/)
 
-# Terminology
+# Terminology/Legend
 - BS = Binary Search
 - SW = Sliding Window
+- DP = Dynamic Programming
 
 
 ## Problem Set
 
 | Problem                                                                | Solution                                                    | Idea                                  | Week   | Type                       | 
 | ---------------------------------------------------------------------- | ------------------------------------------------------------|-------------------------------------- | ------ | ---------------------------|
-| Dominoes                                                               | [dominoes.cpp](Week1/Dominoes/src/main.cpp)                 | [Idea](Week1/Dominoes/idea.md)    | W1     | Gredy                      |
-| Even Pairs                                                             | [even_pairs.cpp](Week1/EvenPairs/src/main.cpp)              | [Idea](Week1/EvenPairs/idea.md)   | W1     | Prefix sum, Combinatorics  |
-| Even Matrices                                                          | [even_matrices.cpp](Week1/EvenMatrices/src/main.cpp)        | [Idea](Week1/EvenMatrices/idea.md)| W1     | Prefix sum, Combinatorics  |
-| Build the Sum                                                          | [build_the_sum.cpp](Week1/BuildTheSum/src/main.cpp)         | [Idea](Week1/BuildTheSum/idea.md) | W1     | -                          |
-| Deck of Cards                                                          | [deck_of_cards.cpp](Week2/DeckOfCards/src/main.cpp)         | [Idea](Week2/DeckOfCards/idea.md) | POTW2  | Prefix sum, SW or BS       |
+| Dominoes                                                               | [dominoes.cpp](Week1/Dominoes/src/main.cpp)                 | [Idea](Week1/Dominoes/idea.md)        | W1     | Gredy                      |
+| Even Pairs                                                             | [even_pairs.cpp](Week1/EvenPairs/src/main.cpp)              | [Idea](Week1/EvenPairs/idea.md)       | W1     | Prefix sum, Combinatorics  |
+| Even Matrices                                                          | [even_matrices.cpp](Week1/EvenMatrices/src/main.cpp)        | [Idea](Week1/EvenMatrices/idea.md)    | W1     | Prefix sum, Combinatorics  |
+| Build the Sum                                                          | [build_the_sum.cpp](Week1/BuildTheSum/src/main.cpp)         | [Idea](Week1/BuildTheSum/idea.md)     | W1     | -                          |
+| Deck of Cards                                                          | [deck_of_cards.cpp](Week2/DeckOfCards/src/main.cpp)         | [Idea](Week2/DeckOfCards/idea.md)     | POTW2  | Prefix sum, SW or BS       |
+| [Beach Bars](Week2/BeachBars/this.pdf)                                 | [beach_bars.cpp](Week2/BeachBars/this.pdf)                  | [Idea](Week2/BeachBars/idea.md)       | W2     | SW, Math                   |
+| [Burning Coins](Week2/BurningCoins/this.pdf)                           | [burning_coins.cpp](Week2/BurningCoins/this.pdf)            | [Idea](Week2/BurningCoins/idea.md)    | W2     | DP                         |
+| [Defensive Line](Week2/DefensiveLine/this.pdf)                         | [defensive_line.cpp](Week2/DefensiveLine/this.pdf)          | [Idea](Week2/DefensiveLine/idea.md)   | W2     | DP, SW or BS               |
 
 ## Exam
 TODO (Complete after exam :pray:). 
@@ -107,3 +111,8 @@ This is a collection of problems for the previous years I used to prepare for th
 - [daniCh8/eth-algolab-2019](https://github.com/daniCh8/eth-algolab-2019/tree/master)
 
 - TODO: add problems if time permits
+
+## Tips & Tricks
+- Always add `std::ios_base::sync_with_stdio(false);` at the beginning of the `main` function. 
+- For DPs: think whether it's easier to implement it recursively, than iteratively. 
+
